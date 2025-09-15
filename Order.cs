@@ -1,4 +1,5 @@
 namespace MainPackage {
+    using SubPackage;
     public class Order {
         public string Id { get; set; }
         public Order()
