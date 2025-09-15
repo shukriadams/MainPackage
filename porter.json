@@ -1,0 +1,7 @@
+{
+    "name" : "MainPackage",
+    "runtimes" : [ 6 ],
+    "packages" : [
+        { "repo" : "shukriadams.SubPackage", "source" : "github", "tag": "0.0.1" }
+    ]
+}
