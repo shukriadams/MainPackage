@@ -1,6 +1,9 @@
 {
     "name" : "MainPackage",
     "runtimes" : [ 6 ],
+    "ignore": [
+        "test/*"
+    ],
     "packages" : [
         { "repo" : "shukriadams.SubPackage", "source" : "github", "tag": "0.0.1" }
     ]
