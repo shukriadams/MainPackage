@@ -5,6 +5,6 @@
         "test/*"
     ],
     "packages" : [
-        { "repo" : "shukriadams.SubPackage", "source" : "github", "tag": "0.0.1" }
+        "github.shukriadams.SubPackage@0.0.1"
     ]
 }
